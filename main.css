@@ -5,12 +5,12 @@
   flex-direction: column;
 
 }
+
 hr{
   margin-bottom: -4vh;
-  /* margin-left: 3vh; */
   width : 12%;
   transform: rotate(155deg);
-  border: 8px solid;
+  border: 1vh solid;
 }
 
 .online{
@@ -18,9 +18,11 @@ hr{
   font-size: 12vh;
   margin-bottom: -3vh;
 }
+
 .o{
   color: #c52747;
 }
+
 .formapro{
   font-size: 3vh;
   letter-spacing: 1.7vh;
