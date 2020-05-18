@@ -1,1 +1,30 @@
-.
+@font-face {
+  font-family: 'helvetica';
+  src: url(Helvetica65Medium_22443.ttf);
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+  height: 85vh;
+  flex-direction: column;
+  font-family: helvetica;
+}
+hr{
+  margin: 0.4vh;
+  width : 5%;
+  transform: rotate(140deg);
+
+}
+
+.online{
+  font-weight: 900;
+  font-size: 12vh;
+}
+.o{
+  color: #c52747;
+}
+.formapro{
+  font-size: 3vh;
+  letter-spacing: 1.9vh;
+  font-weight: 100;
+}
